@@ -87,11 +87,11 @@
 </br>
 
   <p>
- <a href = "https://nimi-soni.medium.com/">  
+ <a href = "https://www.facebook.com/">  
     <img src = "https://github.com/nimi-soni/Linktree/blob/main/Linktree/facebook.png" width = "70" height = "70" align = "left">    
  </a>
  <div width = "70" height = "70">      
-    <a href = "https://nimi-soni.medium.com/">  
+    <a href = "https://www.facebook.com/">  
     <pre text-align = "center">/nimi-soni</pre> 
     </a>     
  </div>
