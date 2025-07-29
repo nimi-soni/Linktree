@@ -1,6 +1,6 @@
 # 🌐 My Linktree📎
 
-  <a href = "https://github.com/nimi-soni/Linktree">  
+  <a href = "https://linktr.ee/nimisoni">  
 <img src = "https://github.com/nimi-soni/NimiSoni/blob/main/Linktree/Img1.png" >    
   </a>
   <!--<br/><br/>-->
@@ -8,7 +8,7 @@
 <img src = "https://github.com/nimi-soni/NimiSoni/blob/main/Linktree/N1.png" align = "left" width = "320" height = "150">   
 </a>
   
-   <a href = "https://github.com/nimi-soni/Linktree"> 
+   <a href = "https://linktr.ee/nimisoni"> 
   <img src = "https://github.com/nimi-soni/NimiSoni/blob/main/Linktree/Linktree.png" width = "150" height = "80" align = "right" >  
    </a>
 <br/><br/>
@@ -44,6 +44,18 @@
  <div width = "70" height = "70">      
     <a href = "https://profile.sap.com/u/nimii">  
     <pre text-align = "center">nimii</pre> 
+    </a>     
+ </div>
+ </p>
+</br>
+
+<p>
+ <a href = "https://www.hackerrank.com/profile/nimisoni">  
+    <img src = "https://github.com/nimi-soni/NimiSoni/blob/main/Linktree/Hacker_Rank.png" width = "70" height = "70" align = "left">    
+ </a>
+ <div width = "70" height = "70">      
+    <a href = "https://www.hackerrank.com/profile/nimisoni">  
+    <pre text-align = "center">nimisoni</pre> 
     </a>     
  </div>
  </p>
