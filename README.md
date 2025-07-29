@@ -5,13 +5,13 @@
   </a>
   <br/><br/>
 <a href = "https://github.com/nimi-soni/Linktree">    
-<img src = "https://github.com/nimi-soni/NimiSoni/blob/main/Linktree/N1.png" align = "left" width = "500" height = "250">   
+<img src = "https://github.com/nimi-soni/NimiSoni/blob/main/Linktree/N1.png" align = "left" width = "350" height = "180">   
 </a>
   
    <a href = "https://github.com/nimi-soni/Linktree"> 
   <img src = "https://github.com/nimi-soni/NimiSoni/blob/main/Linktree/Linktree.png" width = "150" height = "80" align = "right" >  
    </a>
-<br/><br/>
+<br/><br/><br/>
 <p>
 <br/><br/><br/>
  <a href = "https://www.linkedin.com/in/nimi-soni/">  
