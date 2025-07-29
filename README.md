@@ -1,6 +1,8 @@
 # 🌐 My Linktree📎
- 
+
+  <a href = "https://github.com/nimi-soni/Linktree">  
 <img src = "https://github.com/nimi-soni/NimiSoni/blob/main/Linktree/Img3.png" >    
+  </a>
 <br/>
 <p>
  <a href = "https://www.linkedin.com/in/nimi-soni/">  
