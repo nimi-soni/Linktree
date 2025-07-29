@@ -68,7 +68,7 @@
  </a>
  <div width = "70" height = "70">      
     <a href = "https://www.pinterest.com/nimisoni7/">  
-    <pre text-align = "center">/nimi_soni</pre> 
+    <pre text-align = "center">/nimisoni7</pre> 
     </a>     
  </div>
  </p>
