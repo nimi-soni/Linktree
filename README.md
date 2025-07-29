@@ -4,6 +4,9 @@
 <img src = "https://github.com/nimi-soni/NimiSoni/blob/main/Linktree/Img1.png" >    
   </a>
 <br/>
+  <a href = "https://github.com/nimi-soni/Linktree">  
+<img src = "https://github.com/nimi-soni/NimiSoni/blob/main/Linktree/Linktree.png" >    
+  </a>
 <p>
  <a href = "https://www.linkedin.com/in/nimi-soni/">  
     <img src = "https://github.com/nimi-soni/NimiSoni/blob/main/Linktree/linkedin.png" width = "70" height = "70" align = "left">    
