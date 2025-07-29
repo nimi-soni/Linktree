@@ -1,7 +1,7 @@
 # 🌐 My Linktree📎
  
 <img src = "https://github.com/nimi-soni/Linktree/blob/main/Linktree/Img3.png" >    
-<br/></br>
+<br/>
 <p>
  <a href = "https://www.linkedin.com/in/nimi-soni/">  
     <img src = "https://github.com/nimi-soni/Linktree/blob/main/Linktree/linkedin.png" width = "70" height = "70" align = "left">    
