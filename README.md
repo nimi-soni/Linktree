@@ -5,7 +5,7 @@
   </a>
   <!--<br/><br/>-->
 <a href = "https://github.com/nimi-soni/Linktree">    
-<img src = "https://github.com/nimi-soni/NimiSoni/blob/main/Linktree/N1.png" align = "left" width = "340" height = "150">   
+<img src = "https://github.com/nimi-soni/NimiSoni/blob/main/Linktree/N1.png" align = "left" width = "320" height = "150">   
 </a>
   
    <a href = "https://github.com/nimi-soni/Linktree"> 
