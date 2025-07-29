@@ -63,11 +63,11 @@
 </br>
 
 <p>
- <a href = "">  
+ <a href = "https://in.pinterest.com/nimi-soni/">  
     <img src = "https://github.com/nimi-soni/Linktree/blob/main/Linktree/pinterest.png" width = "70" height = "70" align = "left">    
  </a>
  <div width = "70" height = "70">      
-    <a href = "https://nimisoni.blogspot.com/">  
+    <a href = "https://in.pinterest.com/nimi-soni/">  
     <pre text-align = "center">/nimi_soni</pre> 
     </a>     
  </div>
@@ -99,11 +99,11 @@
 </br>
 
    <p>
- <a href = "https://nimi-soni.medium.com/">  
+ <a href = "https://www.youtube.com/">  
     <img src = "https://github.com/nimi-soni/Linktree/blob/main/Linktree/youtube.png" width = "70" height = "70" align = "left">    
  </a>
  <div width = "70" height = "70">      
-    <a href = "https://nimi-soni.medium.com/">  
+    <a href = "https://www.youtube.com/">  
     <pre text-align = "center">/nimi-soni</pre> 
     </a>    
  </div>
