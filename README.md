@@ -92,7 +92,7 @@
  </a>
  <div width = "70" height = "70">      
     <a href = "https://www.facebook.com/">  
-    <pre text-align = "center">/nimisoni</pre> 
+    <pre text-align = "center">Facebook</pre> 
     </a>     
  </div>
  </p>
@@ -104,7 +104,7 @@
  </a>
  <div width = "70" height = "70">      
     <a href = "https://www.youtube.com/">  
-    <pre text-align = "center">Facebook</pre> 
+    <pre text-align = "center">YouTube</pre> 
     </a>    
  </div>
  </p>
