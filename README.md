@@ -1,10 +1,10 @@
 # 🌐 My Linktree📎
  
-<img src = "https://github.com/nimi-soni/Linktree/blob/main/Linktree/Img3.png" >    
+<img src = "https://github.com/nimi-soni/NimiSoni/blob/main/Linktree/Img3.png" >    
 <br/>
 <p>
  <a href = "https://www.linkedin.com/in/nimi-soni/">  
-    <img src = "https://github.com/nimi-soni/Linktree/blob/main/Linktree/linkedin.png" width = "70" height = "70" align = "left">    
+    <img src = "https://github.com/nimi-soni/NimiSoni/blob/main/Linktree/linkedin.png" width = "70" height = "70" align = "left">    
  </a>
  <div width = "70" height = "70">      
     <a href = "https://www.linkedin.com/in/nimi-soni/">  
@@ -16,7 +16,7 @@
  
 <p>
  <a href = "https://github.com/nimi-soni">  
-    <img src = "https://github.com/nimi-soni/Linktree/blob/main/Linktree/github.png" width = "70" height = "70" align = "left">    
+    <img src = "https://github.com/nimi-soni/NimiSoni/blob/main/Linktree/github.png" width = "70" height = "70" align = "left">    
  </a>
  <div width = "70" height = "70">      
     <a href = "https://github.com/nimi-soni">  
@@ -28,7 +28,7 @@
  
 <p>
  <a href = "https://profile.sap.com/u/nimii">  
-    <img src = "https://github.com/nimi-soni/Linktree/blob/main/Linktree/sap.png" width = "70" height = "70" align = "left">    
+    <img src = "https://github.com/nimi-soni/NimiSoni/blob/main/Linktree/sap.png" width = "70" height = "70" align = "left">    
  </a>
  <div width = "70" height = "70">      
     <a href = "https://profile.sap.com/u/nimii">  
@@ -40,7 +40,7 @@
 
 <p>
  <a href = "https://x.com/nimi_soni">  
-    <img src = "https://github.com/nimi-soni/Linktree/blob/main/Linktree/twitter.png" width = "70" height = "70" align = "left">    
+    <img src = "https://github.com/nimi-soni/NimiSoni/blob/main/Linktree/twitter.png" width = "70" height = "70" align = "left">    
  </a>
  <div width = "70" height = "70">      
     <a href = "https://x.com/nimi_soni">  
@@ -52,7 +52,7 @@
 
 <p>
  <a href = "https://nimisoni.blogspot.com/">  
-    <img src = "https://github.com/nimi-soni/Linktree/blob/main/Linktree/blogger.png" width = "70" height = "70" align = "left">    
+    <img src = "https://github.com/nimi-soni/NimiSoni/blob/main/Linktree/blogger.png" width = "70" height = "70" align = "left">    
  </a>
  <div width = "70" height = "70">      
     <a href = "https://nimisoni.blogspot.com/">  
@@ -64,7 +64,7 @@
 
 <p>
  <a href = "https://www.pinterest.com/nimisoni7/">  
-    <img src = "https://github.com/nimi-soni/Linktree/blob/main/Linktree/pinterest.png" width = "70" height = "70" align = "left">    
+    <img src = "https://github.com/nimi-soni/NimiSoni/blob/main/Linktree/pinterest.png" width = "70" height = "70" align = "left">    
  </a>
  <div width = "70" height = "70">      
     <a href = "https://www.pinterest.com/nimisoni7/">  
@@ -76,7 +76,7 @@
 
  <p>
  <a href = "https://nimi-soni.medium.com/">  
-    <img src = "https://github.com/nimi-soni/Linktree/blob/main/Linktree/medium_logo.png" width = "70" height = "70" align = "left">    
+    <img src = "https://github.com/nimi-soni/NimiSoni/blob/main/Linktree/medium_logo.png" width = "70" height = "70" align = "left">    
  </a>
  <div width = "70" height = "70">      
     <a href = "https://nimi-soni.medium.com/">  
@@ -88,7 +88,7 @@
 
   <p>
  <a href = "https://www.facebook.com/">  
-    <img src = "https://github.com/nimi-soni/Linktree/blob/main/Linktree/facebook.png" width = "70" height = "70" align = "left">    
+    <img src = "https://github.com/nimi-soni/NimiSoni/blob/main/Linktree/facebook.png" width = "70" height = "70" align = "left">    
  </a>
  <div width = "70" height = "70">      
     <a href = "https://www.facebook.com/">  
@@ -100,7 +100,7 @@
 
    <p>
  <a href = "https://www.youtube.com/">  
-    <img src = "https://github.com/nimi-soni/Linktree/blob/main/Linktree/youtube.png" width = "70" height = "70" align = "left">    
+    <img src = "https://github.com/nimi-soni/NimiSoni/blob/main/Linktree/youtube.png" width = "70" height = "70" align = "left">    
  </a>
  <div width = "70" height = "70">      
     <a href = "https://www.youtube.com/">  
