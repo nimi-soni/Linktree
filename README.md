@@ -1,123 +1,114 @@
 # 🌐 My Linktree📎
-
-<img src = "https://github.com/nimi-soni/Linktree/blob/main/Linktree/Img1.png" >    
+ 
 <img src = "https://github.com/nimi-soni/Linktree/blob/main/Linktree/Img2.png" >    
+
 <p>
  <a href = "https://www.linkedin.com/in/nimi-soni/">  
-    <img src = "https://github.com/nimi-soni/Linktree/blob/main/Linktree/linkedin.png" width = "150" height = "150" align = "left">    
+    <img src = "https://github.com/nimi-soni/Linktree/blob/main/Linktree/linkedin.png" width = "70" height = "70" align = "left">    
  </a>
- <div width = "150" height = "150"> 
-    <br/><br/>
+ <div width = "70" height = "70">      
     <a href = "https://www.linkedin.com/in/nimi-soni/">  
     <pre text-align = "center">/nimi-soni</pre> 
-    </a>
-    <br/><br/>
+    </a>     
  </div>
  </p>
+ </br>
  
 <p>
  <a href = "https://github.com/nimi-soni">  
-    <img src = "https://github.com/nimi-soni/Linktree/blob/main/Linktree/github.png" width = "150" height = "150" align = "left">    
+    <img src = "https://github.com/nimi-soni/Linktree/blob/main/Linktree/github.png" width = "70" height = "70" align = "left">    
  </a>
- <div width = "150" height = "150"> 
-    <br/><br/>
+ <div width = "70" height = "70">      
     <a href = "https://github.com/nimi-soni">  
     <pre text-align = "center">/nimi-soni</pre> 
-    </a>
-    <br/><br/>
+    </a>     
  </div>
  </p>
+ </br>
  
 <p>
  <a href = "https://profile.sap.com/u/nimii">  
-    <img src = "https://github.com/nimi-soni/Linktree/blob/main/Linktree/sap.png" width = "150" height = "150" align = "left">    
+    <img src = "https://github.com/nimi-soni/Linktree/blob/main/Linktree/sap.png" width = "70" height = "70" align = "left">    
  </a>
- <div width = "150" height = "150"> 
-    <br/><br/>
+ <div width = "70" height = "70">      
     <a href = "https://profile.sap.com/u/nimii">  
     <pre text-align = "center">nimii</pre> 
-    </a>
-    <br/><br/>
+    </a>     
  </div>
  </p>
+</br>
 
 <p>
  <a href = "https://x.com/nimi_soni">  
-    <img src = "https://github.com/nimi-soni/Linktree/blob/main/Linktree/twitter.png" width = "150" height = "150" align = "left">    
+    <img src = "https://github.com/nimi-soni/Linktree/blob/main/Linktree/twitter.png" width = "70" height = "70" align = "left">    
  </a>
- <div width = "150" height = "150"> 
-    <br/><br/>
+ <div width = "70" height = "70">      
     <a href = "https://x.com/nimi_soni">  
     <pre text-align = "center">/nimi_soni</pre> 
-    </a>
-    <br/><br/>
+    </a>     
  </div>
  </p>
+</br>
 
 <p>
  <a href = "https://nimisoni.blogspot.com/">  
-    <img src = "https://github.com/nimi-soni/Linktree/blob/main/Linktree/blogger.png" width = "150" height = "150" align = "left">    
+    <img src = "https://github.com/nimi-soni/Linktree/blob/main/Linktree/blogger.png" width = "70" height = "70" align = "left">    
  </a>
- <div width = "150" height = "150"> 
-    <br/><br/>
+ <div width = "70" height = "70">      
     <a href = "https://nimisoni.blogspot.com/">  
     <pre text-align = "center">/nimi_soni</pre> 
-    </a>
-    <br/><br/>
+    </a>     
  </div>
  </p>
+</br>
 
 <p>
  <a href = "">  
-    <img src = "https://github.com/nimi-soni/Linktree/blob/main/Linktree/pinterest.png" width = "150" height = "150" align = "left">    
+    <img src = "https://github.com/nimi-soni/Linktree/blob/main/Linktree/pinterest.png" width = "70" height = "70" align = "left">    
  </a>
- <div width = "150" height = "150"> 
-    <br/><br/>
+ <div width = "70" height = "70">      
     <a href = "https://nimisoni.blogspot.com/">  
     <pre text-align = "center">/nimi_soni</pre> 
-    </a>
-    <br/><br/>
+    </a>     
  </div>
  </p>
+</br>
 
  <p>
  <a href = "https://nimi-soni.medium.com/">  
-    <img src = "https://github.com/nimi-soni/Linktree/blob/main/Linktree/medium_logo.png" width = "150" height = "150" align = "left">    
+    <img src = "https://github.com/nimi-soni/Linktree/blob/main/Linktree/medium_logo.png" width = "70" height = "70" align = "left">    
  </a>
- <div width = "150" height = "150"> 
-    <br/><br/>
+ <div width = "70" height = "70">      
     <a href = "https://nimi-soni.medium.com/">  
     <pre text-align = "center">/nimi-soni</pre> 
-    </a>
-    <br/><br/>
+    </a>     
  </div>
  </p>
+</br>
 
   <p>
  <a href = "https://nimi-soni.medium.com/">  
-    <img src = "https://github.com/nimi-soni/Linktree/blob/main/Linktree/facebook.png" width = "150" height = "150" align = "left">    
+    <img src = "https://github.com/nimi-soni/Linktree/blob/main/Linktree/facebook.png" width = "70" height = "70" align = "left">    
  </a>
- <div width = "150" height = "150"> 
-    <br/><br/>
+ <div width = "70" height = "70">      
     <a href = "https://nimi-soni.medium.com/">  
     <pre text-align = "center">/nimi-soni</pre> 
-    </a>
-    <br/><br/>
+    </a>     
  </div>
  </p>
+</br>
 
    <p>
  <a href = "https://nimi-soni.medium.com/">  
-    <img src = "https://github.com/nimi-soni/Linktree/blob/main/Linktree/youtube.png" width = "150" height = "150" align = "left">    
+    <img src = "https://github.com/nimi-soni/Linktree/blob/main/Linktree/youtube.png" width = "70" height = "70" align = "left">    
  </a>
- <div width = "150" height = "150"> 
-    <br/><br/>
+ <div width = "70" height = "70">      
     <a href = "https://nimi-soni.medium.com/">  
     <pre text-align = "center">/nimi-soni</pre> 
-    </a>
-    <br/><br/>
+    </a>    
  </div>
  </p>
+ </br>
  
  
 <!--   
@@ -125,7 +116,7 @@
 <tr>
     <td> 
     <a href = "https://www.linkedin.com/in/nimi-soni/">  
-    <img src = "https://github.com/nimi-soni/Linktree/blob/main/Linktree/linkedin.png" width = "150" height = "150">    
+    <img src = "https://github.com/nimi-soni/Linktree/blob/main/Linktree/linkedin.png" width = "70" height = "70">    
     </a>
     </td>
     <td>
