@@ -109,6 +109,18 @@
  </p>
 </br>
 
+ <p>
+ <a href = "https://www.geeksforgeeks.org/user/nimisoni/">  
+    <img src = "https://github.com/nimi-soni/NimiSoni/blob/main/Linktree/GeeksForGeeks.png" width = "70" height = "70" align = "left">    
+ </a>
+ <div width = "70" height = "70">      
+    <a href = "https://www.geeksforgeeks.org/user/nimisoni/">  
+    <pre text-align = "center">/nimisoni</pre> 
+    </a>     
+ </div>
+ </p>
+</br>
+
   <p>
  <a href = "https://www.facebook.com/">  
     <img src = "https://github.com/nimi-soni/NimiSoni/blob/main/Linktree/facebook.png" width = "70" height = "70" align = "left">    
