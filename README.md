@@ -80,7 +80,7 @@
 
  <p>
  <a href = "https://nimi-soni.medium.com/">  
-    <img src = "https://github.com/nimi-soni/Linktree/blob/main/Linktree/Medium.png" width = "250" height = "250" align = "left">    
+    <img src = "https://github.com/nimi-soni/Linktree/blob/main/Linktree/medium_logo.png" width = "250" height = "250" align = "left">    
  </a>
  <div width = "250" height = "250"> 
     <br/><br/><br/><br/>
