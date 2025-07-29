@@ -111,7 +111,7 @@
 
  <p>
  <a href = "https://www.geeksforgeeks.org/user/nimisoni/">  
-    <img src = "https://github.com/nimi-soni/NimiSoni/blob/main/Linktree/GeeksForGeeks.png" width = "70" height = "70" align = "left">    
+    <img src = "https://github.com/nimi-soni/NimiSoni/blob/main/Linktree/geeks_for_geeks.png" width = "70" height = "70" align = "left">    
  </a>
  <div width = "70" height = "70">      
     <a href = "https://www.geeksforgeeks.org/user/nimisoni/">  
