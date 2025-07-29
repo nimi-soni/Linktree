@@ -3,8 +3,10 @@
   <a href = "https://github.com/nimi-soni/Linktree">  
 <img src = "https://github.com/nimi-soni/NimiSoni/blob/main/Linktree/Img1.png" >    
   </a>
-<br/>
+  <img src = "https://github.com/nimi-soni/NimiSoni/blob/main/Linktree/Linktree.png" width = "280" height = "180" align = "right" >  
+<br/><br/><br/>
 <p>
+<br/><br/><br/>
  <a href = "https://www.linkedin.com/in/nimi-soni/">  
     <img src = "https://github.com/nimi-soni/NimiSoni/blob/main/Linktree/linkedin.png" width = "70" height = "70" align = "left">    
  </a>
