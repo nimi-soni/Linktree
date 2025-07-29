@@ -63,11 +63,11 @@
 </br>
 
 <p>
- <a href = "https://in.pinterest.com/nimisoni7/">  
+ <a href = "https://www.pinterest.com/nimisoni7/">  
     <img src = "https://github.com/nimi-soni/Linktree/blob/main/Linktree/pinterest.png" width = "70" height = "70" align = "left">    
  </a>
  <div width = "70" height = "70">      
-    <a href = "https://in.pinterest.com/nimisoni7/">  
+    <a href = "https://www.pinterest.com/nimisoni7/">  
     <pre text-align = "center">/nimi_soni</pre> 
     </a>     
  </div>
