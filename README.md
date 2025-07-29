@@ -104,7 +104,7 @@
  </a>
  <div width = "70" height = "70">      
     <a href = "https://www.youtube.com/">  
-    <pre text-align = "center">/nimisoni</pre> 
+    <pre text-align = "center">Facebook</pre> 
     </a>    
  </div>
  </p>
@@ -122,7 +122,7 @@
     </td>
     <td>
     <a href = "https://www.linkedin.com/in/nimi-soni/">  
-    <h1>/nimi-soni</h1> 
+    <h1>YouTube</h1> 
     </a>    
     </td>
 </tr>
