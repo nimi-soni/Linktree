@@ -12,8 +12,24 @@
   <img src = "https://github.com/nimi-soni/NimiSoni/blob/main/Linktree/Linktree.png" width = "150" height = "80" align = "right" >  
    </a>
 <br/><br/>
+
+<!--
 <p>
-<br/><br/><br/>
+  <br/><br/><br/>
+ <a href = "https://github.com/nimi-soni">  
+    <img src = "https://github.com/nimi-soni/NimiSoni/blob/main/Linktree/1.gif" width = "100" height = "100" align = "left">    
+ </a>
+ <div width = "70" height = "70">      
+    <a href = "https://github.com/nimi-soni">  
+    <pre text-align = "center">My-Portfolio</pre> 
+    </a>     
+ </div>
+ </p>
+</br>
+-->
+
+<p>
+  <br/><br/><br/>
  <a href = "https://www.linkedin.com/in/nimi-soni/">  
     <img src = "https://github.com/nimi-soni/NimiSoni/blob/main/Linktree/linkedin.png" width = "70" height = "70" align = "left">    
  </a>
@@ -44,6 +60,18 @@
  <div width = "70" height = "70">      
     <a href = "https://profile.sap.com/u/nimii">  
     <pre text-align = "center">nimii</pre> 
+    </a>     
+ </div>
+ </p>
+</br>
+
+<p>
+ <a href = "https://github.com/nimi-soni?tab=repositories">  
+    <img src = "https://github.com/nimi-soni/NimiSoni/blob/main/Linktree/gitlab.png" width = "70" height = "70" align = "left">    
+ </a>
+ <div width = "70" height = "70">      
+    <a href = "https://github.com/nimi-soni?tab=repositories">  
+    <pre text-align = "center">nimi-soni</pre> 
     </a>     
  </div>
  </p>
