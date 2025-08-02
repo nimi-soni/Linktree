@@ -54,11 +54,12 @@
  </br>
  
 <p>
- <a href = "https://profile.sap.com/u/nimii">  
+ <a href = "https://community.sap.com/t5/user/viewprofilepage/user-id/2019523">  
     <img src = "https://github.com/nimi-soni/NimiSoni/blob/main/Linktree/sap.png" width = "70" height = "70" align = "left">    
  </a>
  <div width = "70" height = "70">      
-    <a href = "https://profile.sap.com/u/nimii">  
+    <!--<a href = "https://profile.sap.com/u/nimii">  -->
+    <a href = "https://community.sap.com/t5/user/viewprofilepage/user-id/2019523">  
     <pre text-align = "center">nimii</pre> 
     </a>     
  </div>
