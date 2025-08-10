@@ -139,6 +139,18 @@
 </br>
 
  <p>
+ <a href = "https://dev.to/nimi-soni">  
+    <img src = "https://github.com/nimi-soni/NimiSoni/blob/main/Linktree/dev.png" width = "70" height = "70" align = "left">    
+ </a>
+ <div width = "70" height = "70">      
+    <a href = "https://dev.to/nimi-soni">  
+    <pre text-align = "center">/nimi-soni</pre> 
+    </a>     
+ </div>
+ </p>
+</br>
+
+ <p>
  <a href = "https://www.geeksforgeeks.org/user/nimisoni/">  
     <img src = "https://github.com/nimi-soni/NimiSoni/blob/main/Linktree/geeks_for_geeks.png" width = "70" height = "70" align = "left">    
  </a>
