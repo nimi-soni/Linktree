@@ -52,6 +52,18 @@
  </div>
  </p>
  </br>
+
+ <p>
+ <a href = "https://www.credly.com/users/nimi-soni/badges#credly">  
+    <img src = "https://github.com/nimi-soni/NimiSoni/blob/main/Linktree/credly2.png" width = "70" height = "70" align = "left">    
+ </a>
+ <div width = "70" height = "70">      
+    <a href = "https://www.credly.com/users/nimi-soni/badges#credly">  
+    <pre text-align = "center">/nimi-soni</pre> 
+    </a>     
+ </div>
+ </p>
+ </br>
  
 <p>
  <a href = "https://community.sap.com/t5/user/viewprofilepage/user-id/2019523">  
